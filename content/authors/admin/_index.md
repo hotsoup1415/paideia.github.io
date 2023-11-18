@@ -1,6 +1,6 @@
 ---
 # Display name
-title: paideia
+title: Roger Yang
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
