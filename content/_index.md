@@ -50,7 +50,7 @@ sections:
   #    username: admin
   #  design:
   #    columns: '1'
-  - block: skills
+  - block: experience
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards'
