@@ -67,7 +67,7 @@ sections:
           date_end: '2023'
           date_start: '2022'
           description: 'Top 100 physics students in the country'
-          icon: 
+          icon: ''
           organization: AAPT
           organization_url: https://aapt.org/physicsteam/2024/
           title: USAPho silver
