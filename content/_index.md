@@ -70,7 +70,7 @@ sections:
           icon: ''
           organization: AAPT
           organization_url: https://aapt.org/physicsteam/2024/
-          title: USAPho silver
+          title: USAPhO silver
           url: ''
         #- certificate_url: https://www.edx.org
         #  date_end: ''
