@@ -63,14 +63,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://aapt.org/physicsteam/2024/
-          date_end: '2023'
-          date_start: '2022'
+        - certificate_url: ''
+          date_end: ''
+          date_start: ''
           description: 'Top 100 physics students in the country'
           icon: ''
-          organization: AAPT
-          organization_url: https://aapt.org/physicsteam/2024/
-          title: USAPhO silver
+          organization: ''
+          organization_url: ''
+          title: ''
           url: ''
         #- certificate_url: https://www.edx.org
         #  date_end: ''
