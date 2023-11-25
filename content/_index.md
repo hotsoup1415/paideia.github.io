@@ -98,14 +98,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://aapt.org/physicsteam/2024
+          date_end: 'Top 100 physics students in the country'
+          date_start: '2023'
           description: ''
           icon: coursera
           organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization_url: https://aapt.org/physicsteam/2024
+          title: USAPhO silver
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
