@@ -99,17 +99,16 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2023-04-12'
-          description: 'Top 100 physics students in the country'
-          icon: coursera
-          organization: Coursera
+          date_start: '2023-04-09'
+          description: 'Top 100 scorer in the largest physics competition in the country'
+          icon: #coursera
+          organization: AAPT
           organization_url: https://aapt.org/physicsteam/2024
           title: USAPhO silver
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+        - date_end: ''
+          date_start: '2023-04-03'
+          description: 'Top 40 scorer in the largest astronomy competition in the country'
           icon: edx
           organization: edX
           organization_url: https://www.edx.org
