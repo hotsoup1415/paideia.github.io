@@ -137,6 +137,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       # Automatically link email and phone or display as text?
+      email: hotsoup1415@gmail.com
       autolink: true
       # Email form provider
       form:
