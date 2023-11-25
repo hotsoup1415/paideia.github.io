@@ -98,8 +98,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://aapt.org/physicsteam/2024
-          date_end: ''
+        - date_end: ''
           date_start: '2023-04-12'
           description: 'Top 100 physics students in the country'
           icon: coursera
