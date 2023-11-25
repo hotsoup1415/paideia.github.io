@@ -130,7 +130,7 @@ sections:
       subtitle: 'Ongoing list of potential activities for those interested in research or competition physics'
       date_format: Jan 2006
       text: |-
-        I am a rising senior at Glenbrook North. Ever since I read through my first physics textbook in seventh grade for science bowl, I’ve been captivated by the magic of the subject. Though I’ve explored it extensively through competitions and research, I actually never took any high school physics classes outside of freshman year, when it was mandatory. With the help of online resources, though, I was able to self-study the AP Physics I, Physics C Mechanics, and Physics C Electricity and Magnetism exams all in one year, and practically for free. If you’re a high school student interested in physics but your institution doesn’t offer these classes, I highly recommend trying to self-study these tests - at worst, you’ll be able to learn real physics without the drawbacks of a restrictive, arbitrary curriculum.
+        If you are interested in competition physics, I highly suggest reading Kevin Zhou's <a href="https://knzhou.github.io/writing/Advice.pdf">preliminary advice file.</a>
     design:
       columns: '2'
   - block: contact
