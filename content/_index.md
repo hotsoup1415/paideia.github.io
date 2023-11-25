@@ -100,7 +100,7 @@ sections:
       items:
         - certificate_url: https://aapt.org/physicsteam/2024
           date_end: 'Top 100 physics students in the country'
-          date_start: '2023'
+          date_start: '2023-04-12'
           description: ''
           icon: coursera
           organization: Coursera
