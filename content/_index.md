@@ -114,7 +114,14 @@ sections:
           organization_url: https://usaaao.org/
           title: NAC bronze
           url: ''
-      
+        - date_end: ''
+          date_start: '2024-01-01'
+          description: 'Coauthored an abstract about model, machine-learning based ways to predict storms that is expected to be presented at the 2023 American Geophysical Union meeting'
+          icon: #datacamp
+          organization: AGU
+          organization_url: https://www.agu.org/
+          title: 'Coauthor of presentation'
+          url: ''
     design:
       columns: '2'
   - block: contact
