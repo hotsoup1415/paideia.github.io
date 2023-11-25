@@ -109,20 +109,12 @@ sections:
         - date_end: ''
           date_start: '2023-04-03'
           description: 'Top 40 scorer in the largest astronomy competition in the country'
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: #edx
+          organization: USAAAO
+          organization_url: https://usaaao.org/
+          title: NAC bronze
           url: ''
+      
     design:
       columns: '2'
   - block: contact
