@@ -100,7 +100,7 @@ sections:
       items:
         - date_end: ''
           date_start: '2023-04-09'
-          description: 'Top 100 scorer in the largest physics competition in the country'
+          description: 'Two-time top 100 scorer in the largest physics competition in the country'
           icon: #coursera
           organization: AAPT
           organization_url: https://aapt.org/physicsteam/2024
@@ -116,7 +116,7 @@ sections:
           url: ''
         - date_end: ''
           date_start: '2024-01-01'
-          description: 'Coauthored an abstract about model, machine-learning based ways to predict storms that is expected to be presented at the 2023 American Geophysical Union meeting'
+          description: 'Coauthored an abstract about model, machine-learning based ways to predict and detect storms that is expected to be presented at the 2023 American Geophysical Union meeting'
           icon: #datacamp
           organization: AGU
           organization_url: https://www.agu.org/
@@ -124,6 +124,13 @@ sections:
           url: ''
     design:
       columns: '2'
+  - block: experience
+    content:
+      title: 'Oppor&shy;tunities'
+      subtitle: 'Ongoing list of potential activities for those interested in research or competition physics'
+      date_format: Jan 2006
+      text: |-
+        I am a rising senior at Glenbrook North. Ever since I read through my first physics textbook in seventh grade for science bowl, I’ve been captivated by the magic of the subject. Though I’ve explored it extensively through competitions and research, I actually never took any high school physics classes outside of freshman year, when it was mandatory. With the help of online resources, though, I was able to self-study the AP Physics I, Physics C Mechanics, and Physics C Electricity and Magnetism exams all in one year, and practically for free. If you’re a high school student interested in physics but your institution doesn’t offer these classes, I highly recommend trying to self-study these tests - at worst, you’ll be able to learn real physics without the drawbacks of a restrictive, arbitrary curriculum.
   - block: contact
     id: contact
     content:
