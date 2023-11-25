@@ -5,28 +5,28 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: accomplishments
-    content:
+  #- block: accomplishments
+    #content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards'
-      subtitle:
+    #  title: 'Awards'
+    #  subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+    #  date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: ''
-          description: 'Top 100 physics students in the country'
-          icon: ''
-          organization: ''
-          organization_url: ''
-          title: ''
-          url: ''
+    #  items:
+    #    - certificate_url: ''
+    #      date_end: ''
+    #      date_start: ''
+    #      description: 'Top 100 physics students in the country'
+    #      icon: ''
+    #      organization: ''
+    #      organization_url: ''
+    #      title: ''
+    #      url: ''
         #- certificate_url: https://www.edx.org
         #  date_end: ''
         #  date_start: '2021-01-01'
