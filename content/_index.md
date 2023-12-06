@@ -132,9 +132,10 @@ sections:
         If you are interested in competition physics, I highly suggest reading Kevin Zhou's <a href="https://knzhou.github.io/writing/Advice.pdf">preliminary advice file.</a> His handouts for physics olympiad, in particular, are extremely high quality, and are great for developing a deeper understanding of mechanics and E & M even if you are not interested in competitions. If you are interested in research, see my list{{% staticref "uploads/Research_opportunities_list.pdf" "newtab" %}}here{{% /staticref %}}.
 
         Ongoing handouts for AP Physics C Mechanics: 
-        - {{% staticref "uploads/kinematics.pdf" "" %}}Kinematics{{% /staticref %}}
+        - {{% staticref "uploads/kinematics.pdf" "newtab" %}}Kinematics{{% /staticref %}}
         - {{% staticref "uploads/newton.pdf" "newtab" %}}Newton's Laws{{% /staticref %}}
         - {{% staticref "uploads/wep.pdf" "newtab" %}}Work, energy, and power{{% /staticref %}}
+        - {{% staticref "handouts/P1.pdf" "newtab" %}}Problem Solving I{{% /staticref %}} ({{% staticref "handouts/P1Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/P2.pdf" "newtab" %}}Problem Solving II{{% /staticref %}} ({{% staticref "handouts/P2Sol.pdf" "newtab" %}}Sol{{% /staticref %}})
     design:
       columns: '2'
   - block: contact
