@@ -14,7 +14,7 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-trim_trailing_whitespace: true
+#trim_trailing_whitespace: true
 
 ############################
 ## ADVANCED
