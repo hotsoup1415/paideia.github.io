@@ -71,5 +71,5 @@ I am a rising senior at Glenbrook North. Ever since I read through my first phys
 
 It always annoys me when I see scummy professors or undergrads trying to sell ridiculously expensive “prep courses” that claim to guarantee good results. One of my goals has always been to share my love for physics with anybody that would listen, regardless of pay. I hope that this website will help other physics students explore their love for this wonderful subject through online resources, and help smash the socioeconomic divides in education in the process.
 
-11/26 Note: this website is currently under renovation as it has been recently migrated from Wix. Extended resources like links to handouts will be available in the following week.
+Note: website has recently been migrated from Wix. Some materials (detailed information on camps + internships) are in the process of being transferred.
 {style="text-align: justify;"}
