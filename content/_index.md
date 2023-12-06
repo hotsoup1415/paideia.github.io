@@ -1,9 +1,11 @@
 ---
 # Leave the homepage title empty to use the site title
+headless = true
+active = true
+weight = 3
 title: ''
 date: 2022-10-24
 type: landing
-
 sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
