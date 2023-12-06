@@ -1,8 +1,5 @@
 ---
 # Leave the homepage title empty to use the site title
-headless = true
-active = true
-weight = 3
 title: ''
 date: 2022-10-24
 type: landing
@@ -135,7 +132,7 @@ sections:
         If you are interested in competition physics, I highly suggest reading Kevin Zhou's <a href="https://knzhou.github.io/writing/Advice.pdf">preliminary advice file.</a> His handouts for physics olympiad, in particular, are extremely high quality, and are great for developing a deeper understanding of mechanics and E & M even if you are not interested in competitions. If you are interested in research, see my list{{% staticref "uploads/Research_opportunities_list.pdf" "newtab" %}}here{{% /staticref %}}.
 
         Ongoing handouts for AP Physics C Mechanics: 
-        - {{% staticref "uploads/kinematics.pdf" "newtab" %}}Kinematics{{% /staticref %}}
+        - {{% staticref "uploads/kinematics.pdf" "" %}}Kinematics{{% /staticref %}}
         - {{% staticref "uploads/newton.pdf" "newtab" %}}Newton's Laws{{% /staticref %}}
         - {{% staticref "uploads/wep.pdf" "newtab" %}}Work, energy, and power{{% /staticref %}}
     design:
