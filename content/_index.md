@@ -130,13 +130,13 @@ sections:
       subtitle: 'Ongoing list of potential activities for those interested in research or competition physics'
       date_format: Jan 2006
       text: |-
-        If you are interested in competition physics, I highly suggest reading Kevin Zhou's <a href="https://knzhou.github.io/writing/Advice.pdf">preliminary advice file.</a> His handouts for physics olympiad, in particular, are extremely high quality, and are great for developing a deeper understanding of mechanics and E & M even if you are not interested in competitions. If you are interested in research, see my list {{% staticref "uploads/Research_opportunities_list.pdf" "newtab" %}}here{{% /staticref %}}.
+        If you are interested in competition physics, I highly suggest reading Kevin Zhou's <a href="https://knzhou.github.io/writing/Advice.pdf">preliminary advice file.</a> His handouts for physics olympiad, in particular, are extremely high quality, and are great for developing a deeper understanding of mechanics and E & M even if you are not interested in competitions. If you are interested in research, see my {{% staticref "uploads/Research_opportunities_list.pdf" "newtab" %}}list{{% /staticref %}}.
 
         ## AP Physics C handouts
         #### Mechanics: 
-        - {{% staticref "uploads/kinematics.pdf" "newtab" %}}Kinematics{{% /staticref %}}
-        - {{% staticref "uploads/newton.pdf" "newtab" %}}Newton's Laws{{% /staticref %}}
-        - {{% staticref "uploads/wep.pdf" "newtab" %}}Work, energy, and power{{% /staticref %}}
+        {{% staticref "uploads/kinematics.pdf" "newtab" %}}Kinematics{{% /staticref %}}
+        {{% staticref "uploads/newton.pdf" "newtab" %}}Newton's Laws{{% /staticref %}}
+        {{% staticref "uploads/wep.pdf" "newtab" %}}Work, energy, and power{{% /staticref %}}
     design:
       columns: '2'
   - block: contact
