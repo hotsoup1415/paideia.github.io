@@ -137,6 +137,8 @@ sections:
         {{% staticref "uploads/kinematics.pdf" "newtab" %}}Kinematics{{% /staticref %}}
         {{% staticref "uploads/newton.pdf" "newtab" %}}Newton's Laws{{% /staticref %}}
         {{% staticref "uploads/wep.pdf" "newtab" %}}Work, energy, and power{{% /staticref %}}
+        ##Other cool stuff
+        {{% staticref "uploads/Derivation_of_equipartition_theorem.pdf" "newtab" %}}Equipartition theorem handout{{% /staticref %}}        
     design:
       columns: '2'
   - block: contact
